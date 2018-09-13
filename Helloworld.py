@@ -5,4 +5,4 @@
 # Modify the sentence between the quotation marks
 # to something else!
 
-print("Hey there Dily!")
+print("Hey there Dily! be good!")
